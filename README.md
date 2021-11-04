@@ -12,3 +12,7 @@ A more practical approach to VR technologies would be their implementation in en
 **Technical skills -**
 
 ![technical skills](https://user-images.githubusercontent.com/93599650/140412261-f6aceb1f-d105-449e-a8c6-3de07fe924c7.jpg)
+
+In terms of technical skills, creative computing projects have been popularised and made accessible by Arduino, which offers many tools both hardware and software. Most importantly it provides a power and computing unit as well as a universal hardware connecting platform “Arduino Breadboard”. This can be used to set up electrical circuits, for example a basic LED light one. To do so, one only needs the Arduino set with the Breadboard, the actual LED, a flow regulator such as a resistor, a switch and jumper cables. Once everything is connected to power and ground correctly, the switch will enable the LED to shine or disable it. As evident, creative computing projects lead to development of technical skills. 
+
+VR and the technologies surrounding it allow for a great deal of skills to be acquired. As VR is heavily interlinked with video game and film industry, it can lead to advanced development of cinematography, 3D effects and immersion practices. These skills are demonstrated by such films as **The Conjuring 2 - Enfield 360 Experience**, which immerse their viewers into the world of horror through their advanced use of VR and special effects.
