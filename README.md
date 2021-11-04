@@ -20,3 +20,9 @@ VR and the technologies surrounding it allow for a great deal of skills to be ac
 **Individual reflections -**
 
 ![individual reflections](https://user-images.githubusercontent.com/93599650/140414007-734d780e-e182-4fba-a14f-c3e1bcce680e.jpg)
+
+Creative computing and all the knowledge that I’ve gathered from it proved to be very useful in understanding the core processes of Graphic Design and the mechanics behind creative practices. It provided me with coding and technical skills that I can use in my designs in the future. My previous VR experiences have helped me envision 3D versions of objects and their movement in space better and I can now use that to make my own projects more realistic.
+
+Furthermore, the knowledge I’ve gained from Arduino and its circuit tutorials can help both me and other viewers with creating effective LED displays, commercial banners and both promotional and recreational light shows, as well as any other technologies that require basic electronic components. 
+
+As for further suggestions, I would put emphasis on broadening the “reality” aspect of VR, that is involving as much immersive technology as possible, such as tactical feedback wear, motion VR rigs and similar gear. Being able to tell how a future project will feel and work in real life will be an enormous boost in engineering and design and save time and costs on testing and improving products. This way more products could be created and manufactured faster. It would also be an important next step in gaming and cinematic experiences as it would put viewers or gamers inside the generated world in a safe and accessible way.
